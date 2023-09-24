@@ -1,21 +1,28 @@
 /*  your css code here. If applicable */
 body{
-	background-color:#f8f8f8;
+	background-color :#f8f8f8 ;
 }
-h1{
-	padding:10px;
-	text-align:center;
+.img{
+	display:block;
+	justify-content:center;
+	color:rgb(255, 255, 255);
+	background-color:rgb(46, 204, 113);
 	
 }
 .book-library{
-	padding:20px;
-	Background-color:#ffffff;
+	background-color:#ffffff;
 }
+
 .book{
-	padding:15px;
-	text-align:center;
-	
+	color: #777777 ;
 }
 
-
+.price-block{
+	color:white;
+	background-color:#2ecc71;
+	border:none;
+	width:100%;
+}
+		
 	
+}
